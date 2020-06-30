@@ -5,4 +5,3 @@ Git tracks changes.
 Git tracks changes of file.
 Creating a new branch is quick and simple.
 Test add merge.
-fix bug
